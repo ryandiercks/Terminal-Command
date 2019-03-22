@@ -1,0 +1,26 @@
+{
+  "name": "terminal-command",
+  "version": "1.0.0",
+  "description": "demo for node.js",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandiercks/Terminal-Command.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Ryan Diercks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryandiercks/Terminal-Command/issues"
+  },
+  "homepage": "https://github.com/ryandiercks/Terminal-Command#readme",
+  "devDependencies": {}
+}
